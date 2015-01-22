@@ -2,8 +2,8 @@
 title: Morewood
 email: thijs@morewood.be
 description: > # this means to ignore newlines until "baseurl:"
-    Morewood is about making stuff. Mostly about woodwork and programming,
-    but anything goes
+    Morewood is about making stuff.
+    Mostly about woodwork, electronics and programming, but anything goes.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.morewood.be"
 github_username:  ThijsWouters
