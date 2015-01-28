@@ -3,21 +3,22 @@ layout: post
 title: "Project: Workbench"
 date: 2015-01-22T11:56:46+01:00
 ---
-Recently I became interested in making stuff. So the first thing I need
-is a dedicated workbench to house my projects. 
-
 ![Finished][]
 
-[Finished]: /images/workbench/finished.png
+[Finished]: /images/workbench/finished.jpeg
+
+Time
+---
+About 8 hours
 
 Materials
 ---
 - 6 beams of 3 meters (40mm x 90mm): *€27*
-- 1 particleboard (800mm x 1600mm): *€??*
-- screws: *€??*
-- bolts: *€??*
+- 1 particleboard (800mm x 1600mm): *€13*
+- screws
+- bolts
 
-**Total: €27**
+**Total: €40**
 
 Tools
 ---
@@ -52,7 +53,7 @@ Steps
 
 2. Build legs
 
-   1. Using 2 pieces of 88 cm. You screw them together as shown in the picture.
+   1. Screw two pieces of 88 cm togheter as shown in the picture.
 
       ![Leg][]
 
@@ -62,8 +63,8 @@ Steps
      
       ![Full leg][]
 
-   [Leg]: /images/workbench/leg.png
-   [Full leg]: /images/workbench/full_leg.png
+   [Leg]: /images/workbench/leg.jpg
+   [Full leg]: /images/workbench/full_leg.jpg
 
 3. Build the top frame
 
@@ -71,11 +72,12 @@ Steps
    Or just screw it, if you don't care.
    
    1. Bolt the pieces of 72 cm to the top of the legs (one each),
-   2. screw the pieces of 160 cm into the pieces of 72.
+   2. Screw the pieces of 160 cm into the pieces of 72.
 
    ![Top Frame][]
    
-   [Top Frame]: /images/workbench/top_frame.png
+   [Top Frame]: /images/workbench/top_frame.jpg
 
 4. Screw the piece of particleboard onto the frame.
-
+   
+   ![Finished][]
