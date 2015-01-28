@@ -1,7 +1,8 @@
 ---
-layout: post
-title: "Project: Workbench"
+layout: project
+title: Workbench
 date: 2015-01-22T11:56:46+01:00
+time: 8 hours
 ---
 ![Finished][]
 

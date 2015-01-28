@@ -10,3 +10,8 @@ github_username:  ThijsWouters
 
 # Build settings
 markdown: kramdown
+
+collections:
+  projects:
+    output: true
+
