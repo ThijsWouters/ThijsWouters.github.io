@@ -3,32 +3,21 @@ layout: project
 title: Workbench
 date: 2015-01-22T11:56:46+01:00
 time: 8 hours
+cost: €40
+materials:
+  - 6 beams of 3 meters (4cm x 9cm)
+  - 1 particleboard (80cm x 160cm)
+  - screws
+  - bolts
+tools:
+  - Saw
+  - Screwdriver
+  - Clamps
+  - Drill
+  - Tape measure
+  - Pencil
+picture: "/images/workbench/finished.jpeg"
 ---
-![Finished][]
-
-[Finished]: /images/workbench/finished.jpeg
-
-Time
----
-About 8 hours
-
-Materials
----
-- 6 beams of 3 meters (40mm x 90mm): *€27*
-- 1 particleboard (800mm x 1600mm): *€13*
-- screws
-- bolts
-
-**Total: €40**
-
-Tools
----
-- Saw
-- Screwdriver
-- Clamps
-- Drill
-- Tape measure
-- Pencil
 
 Design
 ---
@@ -81,4 +70,7 @@ Steps
 
 4. Screw the piece of particleboard onto the frame.
    
-   ![Finished][]
+   ![Full top][]
+
+   [Full top]: /images/workbench/finished.jpeg
+
